@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# MovieLens : licence GroupLens, pas de redistribution. Le script le télécharge.
+data/
+spark-warehouse/
+metastore_db/
+derby.log

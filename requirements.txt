@@ -1,0 +1,8 @@
+pyspark==4.3.0
+numpy==2.4.6
+pandas==2.3.3
+pyarrow==26.0.1
+matplotlib==3.11.2
+scikit-image==0.26.0
+jupyter==1.1.1
+ipykernel==7.4.0

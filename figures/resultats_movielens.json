@@ -1,0 +1,241 @@
+{
+  "n_ratings": 100836,
+  "n_users": 610,
+  "n_movies": 9724,
+  "densite": 0.016999683055613623,
+  "min_ratings": 10,
+  "n_movies_kept": 2269,
+  "n_ratings_kept": 81116,
+  "rmse_global": 1.0208148017322856,
+  "rmse_user": 0.9354219964348965,
+  "rmse_k": {
+    "0": 0.865658124353534,
+    "1": 0.8589514870540924,
+    "2": 0.8572075085787597,
+    "3": 0.8547307645789677,
+    "5": 0.8531599192544442,
+    "8": 0.852157488711762,
+    "10": 0.8510638192675228,
+    "15": 0.8527159552406242,
+    "20": 0.8528895157813694,
+    "30": 0.8538052039777351,
+    "40": 0.855367066945992,
+    "50": 0.8565275494972235
+  },
+  "best_k": 10,
+  "reco": {
+    "user": 414,
+    "aimes": [
+      [
+        "American President, The (1995)",
+        5.0
+      ],
+      [
+        "Babe (1995)",
+        5.0
+      ],
+      [
+        "Usual Suspects, The (1995)",
+        5.0
+      ],
+      [
+        "Beautiful Girls (1996)",
+        5.0
+      ],
+      [
+        "Taxi Driver (1976)",
+        5.0
+      ],
+      [
+        "Rob Roy (1995)",
+        5.0
+      ],
+      [
+        "Clerks (1994)",
+        5.0
+      ],
+      [
+        "Star Wars: Episode IV - A New Hope (1977)",
+        5.0
+      ],
+      [
+        "Legends of the Fall (1994)",
+        5.0
+      ],
+      [
+        "Once Were Warriors (1994)",
+        5.0
+      ]
+    ],
+    "recos": [
+      [
+        "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)",
+        4.813962807590993
+      ],
+      [
+        "Forrest Gump (1994)",
+        4.744117950903698
+      ],
+      [
+        "Apocalypse Now (1979)",
+        4.656907405837909
+      ],
+      [
+        "Silence of the Lambs, The (1991)",
+        4.602399640328524
+      ],
+      [
+        "Big (1988)",
+        4.431291773938801
+      ],
+      [
+        "Terminator 2: Judgment Day (1991)",
+        4.411713585557746
+      ],
+      [
+        "Trainspotting (1996)",
+        4.365648203962045
+      ],
+      [
+        "Cool Hand Luke (1967)",
+        4.293813268702003
+      ],
+      [
+        "Chinatown (1974)",
+        4.28917350638123
+      ],
+      [
+        "Gladiator (2000)",
+        4.276601055907735
+      ]
+    ]
+  },
+  "similaires": {
+    "Toy Story (1995)": [
+      [
+        "Aladdin (1992)",
+        0.6908676529573952
+      ],
+      [
+        "Lion King, The (1994)",
+        0.6830673050926231
+      ],
+      [
+        "Billy Elliot (2000)",
+        0.659280278893985
+      ],
+      [
+        "Kiss Kiss Bang Bang (2005)",
+        0.6315575406683133
+      ],
+      [
+        "Great Escape, The (1963)",
+        0.6006297451705218
+      ]
+    ],
+    "Matrix, The (1999)": [
+      [
+        "Saving Private Ryan (1998)",
+        0.6175970605959495
+      ],
+      [
+        "Jurassic Park (1993)",
+        0.6173918582930015
+      ],
+      [
+        "Star Wars: Episode VI - Return of the Jedi (1983)",
+        0.6015702267161928
+      ],
+      [
+        "Aliens (1986)",
+        0.5799547428737855
+      ],
+      [
+        "Planet of the Apes (1968)",
+        0.5723453640427411
+      ]
+    ],
+    "Lord of the Rings: The Fellowship of the Ring, The (2001)": [
+      [
+        "Lord of the Rings: The Two Towers, The (2002)",
+        0.9117105504291602
+      ],
+      [
+        "Lord of the Rings: The Return of the King, The (2003)",
+        0.7468580535742494
+      ],
+      [
+        "Indiana Jones and the Last Crusade (1989)",
+        0.6004925280306674
+      ],
+      [
+        "Iron Giant, The (1999)",
+        0.5749945316200185
+      ],
+      [
+        "Dark Knight Rises, The (2012)",
+        0.571319244400761
+      ]
+    ],
+    "Notebook, The (2004)": [
+      [
+        "(500) Days of Summer (2009)",
+        0.7961242690069517
+      ],
+      [
+        "Brokeback Mountain (2005)",
+        0.78273983361008
+      ],
+      [
+        "Breakfast at Tiffany's (1961)",
+        0.6696820068777154
+      ],
+      [
+        "When Harry Met Sally... (1989)",
+        0.6309574185529796
+      ],
+      [
+        "Black Swan (2010)",
+        0.6051880395832149
+      ]
+    ]
+  },
+  "axes": {
+    "axe1": {
+      "negatif": [
+        "Broken Arrow (1996)",
+        "Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)",
+        "Pirates of the Caribbean: At World's End (2007)",
+        "Twister (1996)",
+        "Batman Forever (1995)",
+        "Net, The (1995)"
+      ],
+      "positif": [
+        "Pulp Fiction (1994)",
+        "Star Wars: Episode IV - A New Hope (1977)",
+        "2001: A Space Odyssey (1968)",
+        "Star Wars: Episode V - The Empire Strikes Back (1980)",
+        "Big Lebowski, The (1998)",
+        "Godfather, The (1972)"
+      ]
+    },
+    "axe2": {
+      "negatif": [
+        "Four Weddings and a Funeral (1994)",
+        "Pinocchio (1940)",
+        "Little Mermaid, The (1989)",
+        "Fargo (1996)",
+        "2001: A Space Odyssey (1968)",
+        "Wizard of Oz, The (1939)"
+      ],
+      "positif": [
+        "Matrix, The (1999)",
+        "Spider-Man (2002)",
+        "X-Men (2000)",
+        "Star Wars: Episode VI - Return of the Jedi (1983)",
+        "GoldenEye (1995)",
+        "Pirates of the Caribbean: The Curse of the Black Pearl (2003)"
+      ]
+    }
+  }
+}
